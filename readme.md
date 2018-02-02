@@ -1,8 +1,8 @@
-Git clone this repository 
-composer install 
-cp .env.example .env
-php artisan key:generate
-use php artisan route:list to view all routes as below:
+1. Git clone this repository 
+2. composer install 
+3. cp .env.example .env
+4. php artisan key:generate
+5. use php artisan route:list to view all routes as below:
 
 URIs:
 # /area
@@ -15,7 +15,7 @@ URIs:
 # /pie
 
 
-php artisan serve or visit consoletvs.dev to serve the application
+6. php artisan serve or visit consoletvs.dev to serve the application
 
 hack away!! :)
 
