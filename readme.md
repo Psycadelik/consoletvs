@@ -5,14 +5,14 @@ php artisan key:generate
 use php artisan route:list to view all routes as below:
 
 URIs:
-/area
-/areaspline
-/donut
-/gauge
-/geo
-/line
-/percent
-/pie
+# /area
+# /areaspline
+# /donut
+# /gauge
+# /geo
+# /line
+# /percent
+# /pie
 
 
 php artisan serve or visit consoletvs.dev to serve the application
