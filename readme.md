@@ -23,4 +23,4 @@ php artisan serve or visit consoletvs.dev to serve the application
 
 hack away!! :)
 
-visit erik.cat/projects/Charts/docs to view the documentation and how to extend the charts further
+visit erik.cat/projects/Charts/docs to view the documentation and how to extend the charts further.
